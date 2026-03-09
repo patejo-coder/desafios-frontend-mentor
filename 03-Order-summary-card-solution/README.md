@@ -48,4 +48,3 @@ And I also started using CSS to introduce images that are more aesthetic than re
 ## Author
 
 - Frontend Mentor - [@patejo-coder](https://www.frontendmentor.io/profile/patejo-coder)
-- Instagram - [@patejo_sama](https://www.instagram.com/patejo_sama/)

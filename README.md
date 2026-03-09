@@ -11,7 +11,8 @@ O desafio consiste em recriar uma interface baseada em um design fornecido.
 ## 🚀 Resultado
 
 🔗 **Veja o projeto rodando:**
-[](https://patejo-coder.github.io/desafios-frontend-mentor/)
+
+Pagina Online: [Inserir Pagina Aqui](./)
 
 
 <br><br>
@@ -39,7 +40,7 @@ project-folder
 <br><br>
 ## 🧠 Melhorias futuras
 
-* Melhorar acessibilidade (ARIA / semântica)
+* Melhorar acessibilidade (Semântica)
 * Refinar responsividade
 * Refatorar CSS para maior organização
 

@@ -43,4 +43,3 @@ I need to improve my understanding of the use of Width and Height properties, so
 ## Author
 
 - Frontend Mentor - [@patejo-coder](https://www.frontendmentor.io/profile/patejo-coder)
-- Instagram - [@patejo_sama](https://www.instagram.com/patejo_sama/)

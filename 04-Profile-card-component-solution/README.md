@@ -24,11 +24,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![](./screenshot/Frontend%20Mentor%20Profile%20card%20component%20-%20Computer.png)
 ![](./screenshot/Frontend%20Mentor%20Profile%20card%20component%20-%20Mobile.jpg)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## Meu Processo de criacao
 
 I started by analyzing the layout provided for the challenge and decided that I would build the site with a display grid, from then on I demarcated each element in HTML, and from that point I left HTML aside and focused on CSS, with the styling started I was able to direct the website for the path he should follow.

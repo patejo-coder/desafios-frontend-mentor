@@ -26,11 +26,6 @@ Users should be able to:
 ![](./screenshot/Frontend%20Mentor%20Order%20summary%20card%20-%20Computer.png)
 ![](./screenshot/Frontend%20Mentor%20Order%20summary%20card%20-%20Mobile.jpg)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 To start the project, as usual I started by defining each element of the page and from there I started with CSS to style and start delivering the appearance that the site should have.

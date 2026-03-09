@@ -47,4 +47,3 @@ I can put the use of the Grid and Flex properties into practice, and I believe I
 ## Author
 
 - Frontend Mentor - [@patejo-coder](https://www.frontendmentor.io/profile/patejo-coder)
-- Instagram - [@patejo_sama](https://www.instagram.com/patejo_sama/)

@@ -2,9 +2,9 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido como parte dos desafios do **Frontend Mentor** com o objetivo de praticar habilidades de **HTML e CSS**, focando em estruturação semântica, responsividade e boas práticas de desenvolvimento.
+Este projeto foi desenvolvido como parte dos desafios do **Frontend Mentor** com o objetivo de praticar habilidades de **HTML / CSS / JS**, focando em estruturação semântica, responsividade e boas práticas de desenvolvimento.
 
-O desafio consiste em recriar uma interface baseada em um design fornecido.
+**O desafio consiste em recriar uma interface baseada em um design que foi previamente fornecido**.
 
 <br><br>
 
@@ -43,11 +43,6 @@ project-folder
 * Melhorar acessibilidade (Semântica)
 * Refinar responsividade
 * Refatorar CSS para maior organização
-
-<br><br>
-## 👨‍💻 Autor
-
-Desenvolvido por **Matheus**
 
 <br><br>
 ## 📜 Licença

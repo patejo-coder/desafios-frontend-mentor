@@ -26,11 +26,6 @@ Users should be able to:
 ![](./screenshot/screenshot-mobile1.png)
 ![](./screenshot/screenshot-mobile2.png)
 
-### Links
-
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live Site URL]()
-
 ## My process
 
 ### Built with
@@ -42,4 +37,3 @@ Users should be able to:
 
 - Website - [Meu Site](https://patejo-coder.github.io/patejo-coder/)
 - Frontend Mentor - [@patejo-coder](https://www.frontendmentor.io/profile/patejo-coder)
-- Instagram - [@patejo_sama](https://www.instagram.com/patejo_sama/)

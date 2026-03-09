@@ -27,11 +27,6 @@ Users should be able to:
 ![](./screenshot/Frontend%20Mentor%20NFT%20preview%20card%20component%20-%20Default.png)
 ![](./screenshot/Frontend%20Mentor%20NFT%20preview%20card%20component%20-%20Mobile.jpg)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 To carry out this challenge I used the GRID property to arrange the elements on the page in the best possible way, and from then on I started positioning the elements and defining their spacing, sizes and styles, it is very likely that the way I wrote the code can be improved , but I still found it very easy to execute the challenge this way.

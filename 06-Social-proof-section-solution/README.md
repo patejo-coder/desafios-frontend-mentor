@@ -29,11 +29,6 @@ Users should be able to:
 ![](./screenshots/Frontend%20Mentor%20Social%20proof%20section%20-%20Mobile2.jpg)
 ![](./screenshots/Frontend%20Mentor%20Social%20proof%20section%20-%20Mobile3.jpg)
 
-### Links
-
-- Solution URL: ( - )
-- Live Site URL: ( - )
-
 ## My process
 
 I started by defining each element of the page with its respective HTML tag, always trying to use semantic tags, after defining them I started thinking about how to structure the site and then I chose to use FlexBox to help me with this task, I could have used Grid, but, in my opinion, in this task it would not be so necessary and I believe it would take longer to increase Grid instead of Flex.
@@ -57,4 +52,3 @@ I'm still a beginner, but I already realize that I need to continue developing m
 ## Author
 
 - Frontend Mentor - [@patejo-coder](https://www.frontendmentor.io/profile/patejo-coder)
-- Instagram - [@patejo_sama](https://www.instagram.com/patejo_sama/)

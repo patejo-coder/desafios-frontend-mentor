@@ -29,11 +29,6 @@ Users should be able to:
 ![](./screenshot/Frontend%20Mentor%20Results%20summary%20component%20-%20Mobile%201.jpg)
 ![](./screenshot/Frontend%20Mentor%20Results%20summary%20component%20-%20Mobile%202.jpg)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 I demarcated all the elements on the page and defined the way I would create my Layout, after defining the step by step I would follow, I started styling one item at a time, going from left to right.
@@ -82,4 +77,3 @@ I want to continue developing my knowledge about properties that can contribute 
 ## Author
 
 - Frontend Mentor - [@patejo-coder](https://www.frontendmentor.io/profile/patejo-coder)
-- Instagram - [@patejo_sama](https://www.instagram.com/patejo_sama/)

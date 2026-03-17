@@ -11,7 +11,7 @@ const lista = [
     { id: "6# Social Proof", txt: "Prova Social", link: "06-Social-proof-section-solution/" },
     { id: "7# Four Card", txt: "Quatro Cartões", link: "07-Four-card-feature-section-solution/" },
     { id: "8# Stats Preview", txt: "Cartão de visualização de estatísticas", link: "08-Stats-preview-card-component-solution/" },
-    { id: "9# Single Price Grid", txt: "Grade de preço único", link: "09-Single-price-grid-component-solution/" },
+    { id: "9# Single Price Grid", txt: "Grade de preço único", link: "/09-Single-price-grid-component-solution/" },
     { id: "10# QR Code", txt: "Código QR", link: "10-QR-code-component-solution/" },
     { id: "11# Product Preview", txt: "Cartão de visualização do produto", link: "11-Product-preview-card-component-solution/" }
 ];

@@ -7,29 +7,37 @@
     margin: 0px;
 }
 
+html,
+body {
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+
 #container {
+    width: 950px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 80px;
+    margin-top: 100px;
 }
 
 #sedans {
-    width: 350px;
-    height: 470px;
+    width: auto;
+    height: 450px;
     background-color: hsl(31, 77%, 52%);
     border-radius: 7px 0px 0px 7px;
 }
 
 #suvs {
-    width: 350px;
-    height: 470px;
+    width: auto;
+    height: 450px;
     background-color: hsl(184, 100%, 22%);
 }
 
 #luxury {
-    width: 350px;
-    height: 470px;
+    width: auto;
+    height: 450px;
     background-color: hsl(179, 100%, 13%);
     border-radius: 0px 7px 7px 0px;
 }
@@ -49,76 +57,41 @@
 }
 
 .text {
-    margin-top: 30px;
-    margin-left: 50px;
-    margin-right: 90px;
+    margin: 30px 60px 0px 50px;
     font-family: "Lexend Deca", sans-serif;
     font-size: 15px;
     color: hsla(0, 0%, 100%, 0.75);
-    text-justify: auto;
+    line-height: 25px;
 }
 
-#b1 {
-    margin-top: 70px;
-    margin-left: 50px;
-    margin-right: 145px;
-    padding: 12px;
+.button {
+    margin: 70px 145px 0px 50px;
+    padding: 15px;
     font-family: "Lexend Deca", sans-serif;
     font-size: 15px;
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 25px;
+    text-align: center;
+    cursor: pointer;
+    transition: .5s;
+}
+
+#sedans .button {
     color: hsl(31, 77%, 52%);
-    background-color: #ffffff;
-    border: 2px solid #ffffff;
-    border-radius: 25px;
-    text-align: center;
-    cursor: pointer;
-    transition: 1s;
 }
 
-#b1:hover {
-    background-color: transparent;
-    border: 2px solid #ffffff;
-    color: #ffffff;
-}
-
-#b2 {
-    margin-top: 70px;
-    margin-left: 50px;
-    margin-right: 145px;
-    padding: 12px;
-    font-family: "Lexend Deca", sans-serif;
-    font-size: 15px;
+#suvs .button {
     color: hsl(184, 100%, 22%);
-    background-color: #ffffff;
-    border: 2px solid #ffffff;
-    border-radius: 25px;
-    text-align: center;
-    cursor: pointer;
-    transition: 1s;
 }
 
-#b2:hover {
-    background-color: transparent;
-    border: 2px solid #ffffff;
-    color: #ffffff;
-}
-
-#b3 {
-    margin-top: 70px;
-    margin-left: 50px;
-    margin-right: 145px;
-    padding: 12px;
-    font-family: "Lexend Deca", sans-serif;
-    font-size: 15px;
+#luxury .button {
     color: hsl(179, 100%, 13%);
-    background-color: #ffffff;
-    border: 2px solid #ffffff;
-    border-radius: 25px;
-    text-align: center;
-    cursor: pointer;
-    transition: 1s;
 }
 
-#b3:hover {
+#sedans .button:hover,
+#suvs .button:hover,
+#luxury .button:hover {
     background-color: transparent;
     border: 2px solid #ffffff;
     color: #ffffff;
@@ -127,15 +100,8 @@
 #credits {
     font-family: "Lexends Deca", sans-serif;
     font-size: 12pt;
-    font-weight: bold;
     text-align: center;
     margin: 30px 0px 0px 0px;
-}
-
-#fast {
-    font-family: "Lexends Deca", sans-serif;
-    font-size: 12pt;
-    font-weight: bold;
 }
 
 #credits a {
@@ -143,8 +109,6 @@
     text-decoration: none;
     font-family: "Paytone One", sans-serif;
     font-weight: 300;
-    border: 2px solid #ffffff;
-    border-radius: 20px;
     padding: 8px;
     margin-top: -14px;
     transition: .5s;
@@ -152,81 +116,110 @@
 
 #credits a:hover {
     color: #ff32ed;
+    cursor: pointer;
 }
 
-@media only screen and (width: 376px) {
+@media only screen and (min-width: 300px) and (max-width: 630px) {
 
     #container {
+        width: 90%;
         flex-direction: column;
         margin-top: 40px;
     }
 
+    #sedans,
+    #suvs,
+    #luxury {
+        max-height: 360px;
+        max-width: 400px;
+    }
+
     #sedans {
-        height: 430px;
-        width: 90%;
         border-radius: 7px 7px 0px 0px;
     }
 
-    #suvs {
-        height: 430px;
-        width: 90%;
-    }
-
     #luxury {
-        height: 430px;
-        width: 90%;
         border-radius: 0px 0px 7px 7px;
-        margin-bottom: -25px;
     }
 
     .icone {
-        margin-left: 45px;
-        margin-top: 40px;
-        margin-bottom: 20px;
+        margin: 40px 20px 0px 30px;
     }
-    
+
     .title {
-        margin-left: 45px;
+        font-size: 28pt;
+        margin-left: 30px;
     }
 
     .text {
-        margin-right: 45px;
-        margin-left: 45px;
+        font-size: 10pt;
+        margin: 15px 30px 0px 30px;
     }
 
-    #b1 {
-        margin-left: 45px;
-        margin-top: 50px;
-    }
-
-    #b2 {
-        margin-left: 45px;
-        margin-top: 50px;
-    } 
-
-    #b3 {
-        margin-left: 45px;
-        margin-top: 50px;
+    .button {
+        max-width: 180px;
+        margin: 40px 100px 0px 30px;
     }
 
     #credits {
-        padding: none;
-        margin: 40px 0px 0px 0px;
-        font-size: 9pt;
-    }
-
-
-    #credits a {
-        padding-top: 10px;
-        padding-bottom: 105px;
-        margin-left: -5px;
-        border: transparent;
-        background-color: hidden;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        padding: 0px;
+        margin: 40px 0px 40px 0px;
+        font-size: 10pt;
     }
 
     #credits a:hover {
         color: #11f9ff;
-        border: hidden;
-        background-color: transparent;
+    }
+}
+
+@media screen and (min-width: 631px) and (max-width: 980px) {
+    #container {
+        width: 95%;
+        flex-direction: row;
+        margin-top: 40px;
+    }
+
+    #sedans,
+    #suvs,
+    #luxury {
+        max-height: 350px;
+        min-width: 200px;
+    }
+
+    .icone {
+        margin: 40px 20px 0px 30px;
+    }
+
+    .title {
+        font-size: 30pt;
+        margin-left: 30px;
+    }
+
+    .text {
+        font-size: 10pt;
+        margin: 15px 15px 0px 30px;
+        line-height: 20px;
+    }
+
+    .button {
+        padding: 8px 4px;
+        max-width: 100px;
+        margin: 40px 0px 0px 30px;
+    }
+
+    #credits {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        padding: 0px;
+        margin: 40px 0px 40px 0px;
+        font-size: 10pt;
+    }
+
+    #credits a:hover {
+        color: #11f9ff;
     }
 }

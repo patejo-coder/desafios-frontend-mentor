@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido como parte dos desafios do **Frontend Mentor** com o objetivo de praticar habilidades de **HTML / CSS / JS**, focando em estruturação semântica, responsividade e boas práticas de desenvolvimento.
 
-**O desafio consiste em recriar uma interface baseada em um design que foi previamente fornecido**.
+**Os desafios consistem em recriar interfaces se baseando em designers que foram previamente fornecidos**.
 
 <br><br>
 
@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte dos desafios do **Frontend Mentor** com
 
 🔗 **Veja o projeto rodando:**
 
-Pagina Online: [Inserir Pagina Aqui](./)
+Github Pages: [Lobby Desafios](https://patejo-coder.github.io/desafios-frontend-mentor/)
 
 
 <br><br>
